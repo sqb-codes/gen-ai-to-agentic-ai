@@ -1,0 +1,24 @@
+LangChain
+
+Before LangChain:
+- Install SDK for your LLM provider
+- Create prompts manually
+- Send requests to the model
+- Handle retries and network failures
+- Maintain conversation history if the app is conversational
+
+What is LangChain:
+- Open source framework for developing applications powered by LLMs
+
+LangChain Implementation:
+- Models
+- Prompt Templates
+- Output Parsers
+- LCEL
+- RunnableLambda
+- Conversation history
+- Context Management
+
+
+Installing LangChain:
+pip install langchain langchain-google-genai

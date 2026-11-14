@@ -51,5 +51,9 @@ Question
 
 =============================
 
-Return Structured JSON
+Return Structured JSON from Gemini
+
+=============================
+
+Convert CareerTwin into reusable AI logic
 
